@@ -18,8 +18,6 @@ Source: https://www.flickr.com/photos/32413914@N00/1475776461/
 # Installation
 ```
 pip install -r requirements
-pip install pafy youtube-dl
-
 ```
 **Pytorch:** Check the [Pytorch website](https://pytorch.org/) to find the best method to install Pytorch in your computer.
 
