@@ -51,5 +51,5 @@ Download the pretrained model from the [original repository](https://github.com/
  Original video: https://youtu.be/2CIxM7x-Clc (by Yunfei Guo)
  
 # UFLD
-You can refer to this youtube video : "https://youtu.be/TdIjh3UB2kE?si=TCuXr9_cy7-GVemH"
-Some of its content is outdated and beware of it.
+* You can refer to this youtube video : "https://youtu.be/TdIjh3UB2kE?si=TCuXr9_cy7-GVemH".
+* Some of its content is outdated and beware of it.
