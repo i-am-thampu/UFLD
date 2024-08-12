@@ -7,7 +7,7 @@ Source: https://www.flickr.com/photos/32413914@N00/1475776461/
 # Requirements
 
  * **OpenCV**, **Scikit-learn/Sklearn** and **pytorch**. **pafy** and **youtube-dl** are required for youtube video inference. 
-* **Or You can locally doenload the video from youtube and add its path as video_path
+* Or You can locally download the video from youtube and add its path as video_path
  
 # Installation
 ```
