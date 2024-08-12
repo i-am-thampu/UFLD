@@ -6,7 +6,8 @@ Source: https://www.flickr.com/photos/32413914@N00/1475776461/
 
 # Requirements
 
- * **OpenCV**, **Scikit-learn** and **pytorch**. **pafy** and **youtube-dl** are required for youtube video inference. 
+ * **OpenCV**, **Scikit-learn/Sklearn** and **pytorch**. **pafy** and **youtube-dl** are required for youtube video inference. 
+* **Or You can locally doenload the video from youtube and add its path as video_path
  
 # Installation
 ```
@@ -50,3 +51,5 @@ Download the pretrained model from the [original repository](https://github.com/
  Original video: https://youtu.be/2CIxM7x-Clc (by Yunfei Guo)
  
 # UFLD
+You can refer to this youtube video : "https://youtu.be/TdIjh3UB2kE?si=TCuXr9_cy7-GVemH"
+Some of its content is outdated and beware of it.
