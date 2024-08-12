@@ -6,8 +6,14 @@ Source: https://www.flickr.com/photos/32413914@N00/1475776461/
 
 # Requirements
 
+
  * **OpenCV**, **Scikit-learn/Sklearn** and **pytorch**. **pafy** and **youtube-dl** are required for youtube video inference. 
 * Or You can locally download the video from youtube and add its path as video_path
+* **Python 3.8** is best suited for this porject.
+* **Ubuntu 22.04 LTS** was used as the OS.
+* This repo has updated for 2024 compatibility.
+
+
  
 # Installation
 ```
