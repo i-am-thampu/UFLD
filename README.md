@@ -1,4 +1,4 @@
-# Ultrafast Lane Detection V2 Inference Pytorch
+# Ultrafast Lane Detection Inference Pytorch
 * This is an updated repo for the existing https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch- 
 * Example scripts for the detection of lanes using the [ultra fast lane detection model](https://github.com/cfzd/Ultra-Fast-Lane-Detection) in Pytorch.
 
